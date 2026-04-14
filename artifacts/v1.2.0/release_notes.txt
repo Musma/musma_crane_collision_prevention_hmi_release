@@ -1,1 +1,16 @@
-- No feat/fix commits found.
+- feat : 리눅스 배포 용 깃허브 액션 추가
+- feat : 카메라 ON OFF에 따른 화면 배치 수정
+- feat : 카메라는 최소 1개는 동작하도록 함
+- feat : CCTV를 OFF하면 녹화 기능도 OFF하도록 함
+- feat : cctv 에 on / off 기능 추가
+- feat : 녹화 경로 for linux
+- feat : 녹화영상 기록 디렉토리 리눅스용
+- feat : 영상 재생 - 리눅스용
+- feat :  리눅스 버전 표시 추가
+- feat : 리눅스 앱 2개 뜨도록 함
+- feat : 리눅스 플랫폼 지원
+- feat : 이더넷 어뎁터 연결 상태 체크 (리눅스용)
+- fix : 오류 수정
+- feat : get mac address for linux
+- feat : 리눅스 플랫폼 지원
+- fix : 2개 모니터 연결 시 앱 동작 안하는 문제 수정

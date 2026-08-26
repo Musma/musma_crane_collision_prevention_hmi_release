@@ -1,0 +1,1 @@
+- fix : video view type을 기본으로 변경
